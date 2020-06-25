@@ -1,3 +1,3 @@
 # symfony_app
 
-Creation d'un mini réseau socal
+Creation d'un mini réseau social
